@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Kullanıcı\\Documents\\GitHub\\apartment-management.b\\apartment-management\\apartment-management.csproj": {}
+    "C:\\Users\\Kullanıcı\\source\\repos\\apartment-management.b1\\apartment-management.b1\\apartment-management.b1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Kullanıcı\\Documents\\GitHub\\apartment-management.b\\apartment-management\\apartment-management.csproj": {
+    "C:\\Users\\Kullanıcı\\source\\repos\\apartment-management.b1\\apartment-management.b1\\apartment-management.b1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Kullanıcı\\Documents\\GitHub\\apartment-management.b\\apartment-management\\apartment-management.csproj",
-        "projectName": "apartment-management",
-        "projectPath": "C:\\Users\\Kullanıcı\\Documents\\GitHub\\apartment-management.b\\apartment-management\\apartment-management.csproj",
+        "projectUniqueName": "C:\\Users\\Kullanıcı\\source\\repos\\apartment-management.b1\\apartment-management.b1\\apartment-management.b1.csproj",
+        "projectName": "apartment-management.b1",
+        "projectPath": "C:\\Users\\Kullanıcı\\source\\repos\\apartment-management.b1\\apartment-management.b1\\apartment-management.b1.csproj",
         "packagesPath": "C:\\Users\\Kullanıcı\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Kullanıcı\\Documents\\GitHub\\apartment-management.b\\apartment-management\\obj\\",
+        "outputPath": "C:\\Users\\Kullanıcı\\source\\repos\\apartment-management.b1\\apartment-management.b1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

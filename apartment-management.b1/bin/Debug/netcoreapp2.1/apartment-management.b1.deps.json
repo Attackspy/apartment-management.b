@@ -22,17 +22,17 @@
   },
   "targets": {
     ".NETCoreApp,Version=v2.1": {
-      "apartment-management/1.0.0": {
+      "apartment-management.b1/1.0.0": {
         "dependencies": {
           "Microsoft.AspNetCore.App": "2.1.1",
           "Microsoft.AspNetCore.Razor.Design": "2.1.2",
           "Microsoft.NETCore.App": "2.1.0"
         },
         "runtime": {
-          "apartment-management.dll": {}
+          "apartment-management.b1.dll": {}
         },
         "compile": {
-          "apartment-management.dll": {}
+          "apartment-management.b1.dll": {}
         }
       },
       "Microsoft.AspNetCore.Razor.Design/2.1.2": {},
@@ -3150,7 +3150,7 @@
     }
   },
   "libraries": {
-    "apartment-management/1.0.0": {
+    "apartment-management.b1/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

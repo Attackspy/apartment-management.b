@@ -1,0 +1,14 @@
+C:\Users\Kullanıcı\source\repos\apartment-management.b1\apartment-management.b1\bin\Debug\netcoreapp2.1\apartment-management.b1.deps.json
+C:\Users\Kullanıcı\source\repos\apartment-management.b1\apartment-management.b1\bin\Debug\netcoreapp2.1\apartment-management.b1.runtimeconfig.json
+C:\Users\Kullanıcı\source\repos\apartment-management.b1\apartment-management.b1\bin\Debug\netcoreapp2.1\apartment-management.b1.runtimeconfig.dev.json
+C:\Users\Kullanıcı\source\repos\apartment-management.b1\apartment-management.b1\bin\Debug\netcoreapp2.1\apartment-management.b1.dll
+C:\Users\Kullanıcı\source\repos\apartment-management.b1\apartment-management.b1\bin\Debug\netcoreapp2.1\apartment-management.b1.pdb
+C:\Users\Kullanıcı\source\repos\apartment-management.b1\apartment-management.b1\obj\Debug\netcoreapp2.1\apartment-management.b1.csprojAssemblyReference.cache
+C:\Users\Kullanıcı\source\repos\apartment-management.b1\apartment-management.b1\obj\Debug\netcoreapp2.1\apartment-management.b1.csproj.CoreCompileInputs.cache
+C:\Users\Kullanıcı\source\repos\apartment-management.b1\apartment-management.b1\obj\Debug\netcoreapp2.1\apartment-management.b1.RazorAssemblyInfo.cache
+C:\Users\Kullanıcı\source\repos\apartment-management.b1\apartment-management.b1\obj\Debug\netcoreapp2.1\apartment-management.b1.RazorAssemblyInfo.cs
+C:\Users\Kullanıcı\source\repos\apartment-management.b1\apartment-management.b1\obj\Debug\netcoreapp2.1\apartment-management.b1.AssemblyInfoInputs.cache
+C:\Users\Kullanıcı\source\repos\apartment-management.b1\apartment-management.b1\obj\Debug\netcoreapp2.1\apartment-management.b1.AssemblyInfo.cs
+C:\Users\Kullanıcı\source\repos\apartment-management.b1\apartment-management.b1\obj\Debug\netcoreapp2.1\apartment-management.b1.RazorTargetAssemblyInfo.cache
+C:\Users\Kullanıcı\source\repos\apartment-management.b1\apartment-management.b1\obj\Debug\netcoreapp2.1\apartment-management.b1.dll
+C:\Users\Kullanıcı\source\repos\apartment-management.b1\apartment-management.b1\obj\Debug\netcoreapp2.1\apartment-management.b1.pdb

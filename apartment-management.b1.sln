@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29215.179
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "apartment-management", "apartment-management\apartment-management.csproj", "{EE91B92D-D147-4E91-BD74-564062C8F1B7}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "apartment-management.b1", "apartment-management.b1\apartment-management.b1.csproj", "{00992E1D-3746-4EC1-8C2A-78EE6495E2F5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{EE91B92D-D147-4E91-BD74-564062C8F1B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{EE91B92D-D147-4E91-BD74-564062C8F1B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{EE91B92D-D147-4E91-BD74-564062C8F1B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{EE91B92D-D147-4E91-BD74-564062C8F1B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{00992E1D-3746-4EC1-8C2A-78EE6495E2F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00992E1D-3746-4EC1-8C2A-78EE6495E2F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00992E1D-3746-4EC1-8C2A-78EE6495E2F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00992E1D-3746-4EC1-8C2A-78EE6495E2F5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {0AE1952A-F5D8-4666-B37B-304C3160D687}
+		SolutionGuid = {D0D5BDC0-DD7A-4BA9-B943-640A90101400}
 	EndGlobalSection
 EndGlobal
