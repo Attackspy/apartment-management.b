@@ -6,7 +6,7 @@ using System.Text.Json;
 
 namespace apartment_management.s1.models
 {
-    public class users
+    public class UsersModels
     {
 
         public string name { get; set; }
