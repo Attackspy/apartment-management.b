@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Kullanıcı\\source\\repos\\apartment-management.s1\\apartment-management.s1\\apartment-management.s1.csproj",
+      "projectUniqueName": "C:\\Users\\Kullanıcı\\Documents\\GitHub\\apartment-management.b\\apartment-management.s1\\apartment-management.s1.csproj",
       "projectName": "apartment-management.s1",
-      "projectPath": "C:\\Users\\Kullanıcı\\source\\repos\\apartment-management.s1\\apartment-management.s1\\apartment-management.s1.csproj",
+      "projectPath": "C:\\Users\\Kullanıcı\\Documents\\GitHub\\apartment-management.b\\apartment-management.s1\\apartment-management.s1.csproj",
       "packagesPath": "C:\\Users\\Kullanıcı\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Kullanıcı\\source\\repos\\apartment-management.s1\\apartment-management.s1\\obj\\",
+      "outputPath": "C:\\Users\\Kullanıcı\\Documents\\GitHub\\apartment-management.b\\apartment-management.s1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
